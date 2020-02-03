@@ -40,3 +40,22 @@ main {
   max-width: 120rem;
   margin: 0 auto;
 }
+
+#search-bar{
+  text-align: center;
+  background-color:#ababab ;
+}
+
+#input-label{
+  font-weight: 550;
+  color: black;
+}
+#dropdown{
+  text-align: center;
+  background-color: #dedede;
+  font-weight: 400;
+}
+#dropdown select{
+  margin-left: 10px;
+  margin-right: 10px;
+}
